@@ -1,5 +1,0 @@
-com\speaking\clock\demo\config\OpenApiConfig.class
-com\speaking\clock\demo\exception\InvalidInputException.class
-com\speaking\clock\demo\service\SpeakingClockService.class
-com\speaking\clock\demo\SpeakingClockApplication.class
-com\speaking\clock\demo\controller\SpeakingClockController.class
